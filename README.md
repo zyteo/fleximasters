@@ -1,1 +1,3 @@
-# fleximasters
+# Fleximasters
+## Some showcase of my group work done for NTU's FlexiMasters in Business and Financial Analytics
+### Throughout the modules, we covered Tableau, MySQL, KNIME, Orange, ChatGPT, snatchbot, etc...
