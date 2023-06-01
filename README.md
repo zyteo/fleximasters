@@ -13,6 +13,22 @@ https://raw.githubusercontent.com/zyteo/fleximasters/main/tableau-video.mp4
 https://recycling-ai-model1.netlify.app/ 
 
 
+###### Histogram generated with df.plot.
+
+<img src="./wk3_airbnb_plot2.png"/>
+
+###### Boxplot generated with snsplot.
+
+<img src="./wk3_airbnb_snsplot2.png"/>
+
+###### Heatmap generated with snsplot.
+
+<img src="./wk3_airbnb_snsplot3.png"/>
+
+###### Pair plot generated with snsplot.
+
+<img src="./wk3_airbnb_snsplot5.png"/>
+
 ###### AI-generated image of NTU SG.
 
 <img src="./AI_NTU_sg.png"/>
