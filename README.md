@@ -9,7 +9,6 @@
 ###### Tableau showcase for showing HDB resale prices trend. Our group's framing focused on elderly looking to downgrade HDB flats.
 
 https://raw.githubusercontent.com/zyteo/fleximasters/main/tableau-video.mp4
-fleximasters\chatgpt-sample.mp4
 
 <video width="320" height="240" controls>
   <source src="https://raw.githubusercontent.com/zyteo/fleximasters/main/tableau-video.mp4" type="video/mp4">
