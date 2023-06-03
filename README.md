@@ -8,7 +8,7 @@
 
 ###### Tableau showcase for showing HDB resale prices trend. Our group's framing focused on elderly looking to downgrade HDB flats.
 
-<video src="https://raw.githubusercontent.com/zyteo/fleximasters/main/tableau-video.mp4" ></video>
+https://github.com/zyteo/fleximasters/assets/86465458/cd76924c-f1ff-4c93-9d0f-e559d2edb4f9
 
 ###### ML model made with Teachable Machine.
 
@@ -48,8 +48,8 @@ https://recycling-ai-model1.netlify.app/
 
 ###### Telegram bot created with snatchbot. As we used a free trial, the bot has since expired.
 
-<video src="https://raw.githubusercontent.com/zyteo/fleximasters/main/telebot-sample.mp4" ></video>
+https://github.com/zyteo/fleximasters/assets/86465458/741ffc38-f677-4a3a-967a-be79c278a7ab
 
 ###### Chat with ChatGPT. Uses openAI API for ChatGPT. As credits are limited, I show a sample video.
 
-<video src="https://raw.githubusercontent.com/zyteo/fleximasters/main/chatgpt-sample.mp4" ></video>
+https://github.com/zyteo/fleximasters/assets/86465458/bf3f0546-2487-418d-92ac-2de8a4aff7b8
