@@ -1,10 +1,16 @@
 # Fleximasters
 
-## Some showcase of my group and individual work done for NTU's FlexiMasters in Business and Financial Analytics
+## Group and individual work for NTU's FlexiMasters in Business and Financial Analytics
 
-### Throughout the modules, we covered Tableau, MySQL, KNIME, Orange, ChatGPT, snatchbot, etc...
+### We covered Tableau, MySQL, KNIME, Orange, ChatGPT, snatchbot, etc...
 
 #### As much as I would like to showcase many items, I need to be mindful of copyright / school's IP etc, and also to be careful not to leak answers for the future batches. Hence, I will only show a select few as appropriate.
+
+#### Modules:
+• AI and Analytics Technologies in Enterprise\
+• AI and Analytics in Finance, Credit and Related Risks\
+• Data Management and Visualization\
+• Design Thinking, Blockchain Technology Management and Cybersecurity
 
 ###### Tableau showcase for showing HDB resale prices trend. Our group's framing focused on elderly looking to downgrade HDB flats.
 
